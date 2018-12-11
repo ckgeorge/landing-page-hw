@@ -1,0 +1,123 @@
+body {
+	font-family: 'Open Sans', Sans serif;
+}
+.main {
+	max-width: 960px;
+	margin: 0 auto;
+}
+header {
+	font-weight: 800;
+	font-size: 24px;
+	padding-left: 40px;
+	padding-top: 10px;
+	color: white;
+}
+h2 {
+	font-weight: 600;
+	font-size: 24px;
+	color: white;
+	text-align: center;
+	padding-top: 160px;
+}
+button {
+	font-weight: 800;
+	font-size: 14px;
+	align-content: center;
+	display: inline-block;
+	padding: 5px 40px;
+	border-radius: 3px;
+	display: block; margin: 0 auto;
+}
+.intro {
+	height: 600px;
+	display: block;
+	background-image: url(https://i.imgur.com/yg1gJaE.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.GIN {
+	background-color: #f9e42e;
+	margin-top: 50px;
+}
+.benefits {
+	display: block;
+	padding: 50px 20px 10px 70px;
+	background-color: #f0efef;
+	size: auto;
+	height: 300px;
+}	
+.list {
+	font-weight: 300;
+	font-size: 13px;
+}
+.testimonial {
+	padding-top: 100px;
+	margin: 0px;
+	height: 200px;
+	background-image: url(https://i.imgur.com/URO6lZm.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	display: block;
+	font-weight: 300;
+	font-size: 18px;
+	font-style: italic;
+}
+.quote {
+	margin: 0 auto;
+	display: block;
+	width: 70%;
+	text-align: center;
+	color: white;
+}
+.name {
+	font-weight: 600;
+	font-size: 18px;
+	color: white;
+	padding-left: 420px;
+}
+.sign {
+	padding-top: 10px;
+	height: 35px;
+	background-color: #f9e42e;
+}
+.SUN {
+	background-color: #033048;
+	color: white;
+}
+.footer {
+	font-weight: 600;
+	font-size: 9px;
+	height: 300px;
+	background-color: #121212;
+	color: white;
+}
+.wrapper {
+	padding-top: 50px;
+	margin: 0 auto;
+	width: 20%;
+}
+.logo {
+	padding-left: 50px;
+	padding-bottom: 35px;
+	margin: auto;
+	color: #f9e42e;
+	font-weight: 600;
+	font-size: 24px;
+}
+.iconT {
+	width: 40px;
+	float: left;
+	padding-bottom: 30px;
+}
+.iconF {
+	width: 40px;
+	float: right;
+	padding-bottom: 30px;
+}
+
+.clearfix:after {
+	content: '';
+	display: block;
+	clear: both;
+}
